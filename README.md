@@ -1,4 +1,4 @@
-# Machine-Learning-Python
+# Machine-Learning-Python-Group-Project
 
 The task at hand is to train the algorithm to recognize which 
 English word is pronounced in an audio recording.
